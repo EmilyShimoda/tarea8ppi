@@ -19,7 +19,7 @@ export default function Funciona(){
                 Este algoritmo tiene una complejidad de O(log n)
             </p>
             <div className="flex justify-center">
-                <Image className="mt-5" width={600} height={500} src="/Screenshot 2025-03-01 at 4.15.53 p.m..png" alt="code"/>
+                <Image className="mt-5" width={600} height={500} src="/Screenshot.png" alt="code"/>
             </div>
         </div>
     );
